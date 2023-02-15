@@ -14,10 +14,4 @@
   <a href="https://stackoverflow.com/users/5720201/teruteru214">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="http://qiita.com/teruteru214">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/teruteru214/posts.svg" />
-  </a>
-  <//qiita.com/teruteru214">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/teruteru214/contributions.svg" />
-  </a>
 </p>
